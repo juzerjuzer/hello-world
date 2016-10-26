@@ -1,2 +1,2 @@
 # hello-world
-novi repozitorij
+new repository
